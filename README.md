@@ -5,6 +5,7 @@ Like the J-VIP, it runs the VIP or the JVIP rom and takes advantage of the VIP f
 
 <ins>Version 1.0b</ins> is the latest version with video improvements and a BD139 driven Q output to control relays or other circuits. All other previous versions can be found in the archive folder.
 
+<ins>Rom version 3.20</ins> (jvip320s.bin) has John Conway's Game Of Life on key 3. At the time of selection, the longer the press is on key 3, the more random the screen becomes for thew game to run.
 
 ### Image of the VIP-S version 1.0
 ![VIP-S_1](https://github.com/user-attachments/assets/ce51a39c-0fab-4ee3-a5e9-266b50a534c2)
